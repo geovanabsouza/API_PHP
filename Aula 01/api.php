@@ -26,7 +26,7 @@
     //];
 
     //Converte para json e retorna
-   // echo json_encode($usuarios);
+
 
 
 
